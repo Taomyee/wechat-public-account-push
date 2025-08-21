@@ -7,6 +7,10 @@ const TEMPLATE_CONFIG = [
       **{{date.DATA}}**
       
       下个休息日：{{holidaytts.DATA}}
+      {{wx_holidaytts.DATA}}
+      {{wx_holidaytts_0.DATA}}
+      {{wx_holidaytts_1.DATA}}
+      
       {{wx_holidaytts_findexj.DATA}}
 
       {{note_en.DATA}}
@@ -34,10 +38,7 @@ const TEMPLATE_CONFIG = [
       {{birthday_message.DATA}}
       
       ---
-      
-      {{moment_copyrighting.DATA}}
-      
-      {{poetry_title.DATA}} {{poetry_content.DATA}}
+      {{earthy_love_words.DATA}}
     `
   },
   {
