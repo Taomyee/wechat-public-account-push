@@ -30,13 +30,13 @@ const USER_CONFIG = {
       horoscopeDate: '05-19',
       festivals: [
         {
-          type: '节日‘， name: '下一次见面’， year: '2025', date: '09-12',
+          type: '节日', name: '下一次见面', year: '2025', date: '09-12',
         },
         {
           type: '节日', name: '恋爱纪念日', year: '2025', date: '08-11',
         },
         {
-          type: '节日‘， name: '100天纪念日’， year: '2025', date: '11-19',
+          type: '节日', name: '100天纪念日', year: '2025', date: '11-19',
         },
         // 注意：此条配置日期为阴历日期，因为`type`中 “生日” 之前有 * 符号
         {
