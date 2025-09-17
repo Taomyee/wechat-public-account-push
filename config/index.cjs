@@ -30,7 +30,7 @@ const USER_CONFIG = {
       horoscopeDate: '05-19',
       festivals: [
         {
-          type: '节日', name: '下一次见面', year: '2025', date: '09-28',
+          type: '节日', name: '下一次见面', year: '2025', date: '09-29',
         },
         {
           type: '节日', name: '恋爱纪念日', year: '2025', date: '08-11',
